@@ -1,0 +1,15 @@
+{
+  "name": "test-maximize-window",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "node node_modules/testcafe/bin/testcafe chrome test.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "testcafe": "^2.3.0"
+  }
+}
